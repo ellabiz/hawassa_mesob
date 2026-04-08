@@ -1,0 +1,30 @@
+generate 50+ slides based on contents inside the attached files. make absolutely sure the slides are generated in away compatible with google slides to be easily exported. use tables where necessary so that you we accommodate as much contents without the need to refer any speaker note. be creative to include as much content while still perfecting the visuals. make sure to keep margins on every side so that contents fit. give slide numbers on each slide. make sure the font size and styling are not too large but span only enough line, specially for titles and sub topics.
+-------------------------------------------
+  
+Use an ultra-premium "Neo-Consultancy" theme characterized by:
+
+Glassmorphic ambient background glowing effects
+
+Modern Soft UI Cards with precise shadow dynamics and state highlighting (Success/Warning/Danger blocks)
+
+High-impact Iconography utilizing multi-layered badge styles
+
+Rich Data Visualizations leveraging customized grid masonry layouts and vibrant gradient bars
+stunning visual styling—including the glassmorphic ambient gradients, custom shadow-boxed cards (with danger, warning, and success states), custom list icons, and sleek grid layouts.
+
+Integration of new, highly relevant images specifically representing modern data centers, administrative services, and a beautiful shot of Hawassa City, Meso one stop center, Ethiopia, etc cross the slides specially the title slides. retrieve and strategically place several brand-new high-quality images (via Google Search) relevant to urban governance, data tracking, architecture, and citizen service to keep the visual engagement extremely high. if any visual style is problematic YOU ARE FREE TO CHANGE THEM AS YOU SEE FIT. THESE ARE ONLY RECOMMENDATIONS. NOW GENERATE MY 50+ SLIDES FROM THE ATTACHED FILE!!!!!!
+
+
+
+
+
+
+
+
+
+
+
+---
+ generated slides preserving every single word from the attached document, mapping them meticulously into the beautiful "Neo-Consultancy" theme. retained the stunning visual styling—including the glassmorphic ambient gradients, custom shadow-boxed cards (with danger, warning, and success states), custom list icons, and sleek grid layouts.
+
+retrieve and strategically place several brand-new high-quality images (via Google Search) relevant to urban governance, data tracking, architecture, and citizen service to keep the visual engagement extremely high.
