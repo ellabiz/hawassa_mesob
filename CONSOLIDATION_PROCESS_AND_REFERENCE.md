@@ -173,7 +173,31 @@ _Add an entry each time a new consolidated file is added, updated, or process/wo
 
 *Note: This is a schematic—populate with specific items as review deepens.*
 
+
+#### Open Issue Log (updated 2026-04-08)
+
+| Source File                      | BoQ Line # / Desc          | Issue/Question                          | Resolution Needed                           | Responsible               |
+|----------------------------------|----------------------------|-----------------------------------------|---------------------------------------------|---------------------------|
+| v1/1-ethiotele-Original-BoQ.docx | 12 – UPS System (20KVA)    | Price/model justification               | Vendor/technical memo, update to Sidama base| Vendor, technical lead    |
+| v1/1-ethiotele-Original-BoQ.docx | 22 – IP Phone              | Excess qty/cost compared to Sidama      | Confirm quantity basis, HR/ops review       | Technical, HR, vendor     |
+| v3/2-VOLUME 2-Forensic.docx      | 37 – Optical patch panel   | Scope for postponement                  | Confirm technical/rollout plan              | Planning, vendor          |
+| Gech - some issues to be raised.docx | 40 – Facility monitoring system | Regulatory/functional necessity   | Vendor justification, city admin/legal review| Technical, legal, vendor  |
+
 ---
+
+### 2026-04-08 — Batch Review of Disputed BoQ Items
+
+| Source File                      | BoQ Line # / Description         | Team Finding / Negotiation Stance                           | Suggested Adjustment / Removal      | Supporting Sidama Evidence    | Stakeholder(s) for Resolution   |
+|----------------------------------|----------------------------------|-------------------------------------------------------------|-------------------------------------|------------------------------|-------------------------------|
+| v1/1-ethiotele-Original-BoQ.docx | 12 – “UPS System (20KVA)”       | Price double Sidama, model obsolete                         | Reduce to Sidama rate/new model     | Sidama line 9: lower/newer   | Technical lead, vendor rep     |
+| v1/1-ethiotele-Original-BoQ.docx | 22 – “IP Phone”                 | Quantity and cost high, team argues for reduction           | Reduce to Sidama qty, adjust pricing| Sidama project: 30 units     | Technical, HR, vendor          |
+| v3/2-VOLUME 2-Forensic.docx      | 37 – “Optical patch panel”      | Not immediately required, Sidama purchased only for Phase 2 | Postpone to Phase 2                 | Sidama phased later          | Planning, finance, vendor      |
+| Gech - some issues to be raised.docx | 40 – “Facility monitoring system” | No rationale/precedent, possibly unnecessary              | Seek vendor clarification, likely cut | Not present in Sidama       | Technical, legal, vendor       |
+
+*Actions:*
+- Opened negotiation on lines 12 (UPS), 22 (IP Phone): seek updated models, clarify intended deployment scale.
+- Line 37 (Optical patch panel): flagged for deferral.
+- Line 40 (Facility monitoring system): awaiting technical/legal/vendor input for classification.  
 
 # Gap Analysis & Requirements for Progress
 
@@ -212,7 +236,23 @@ _Add an entry each time a new consolidated file is added, updated, or process/wo
 
 - Continue deep review of all content and update/expand the above categories as gaps or new topics are found.
 - Begin with BoQ and Financial documents—these are high priority for the first round of consolidation.
+#### Outstanding Tasks & Next Iteration
 
+- Awaiting vendor’s technical/financial response for lines 12 (“UPS System”) and 40 (“Facility monitoring system”).
+- Technical/HR to review necessity and deployment plan for “IP Phone” quantity.
+- Planning/finance to decide on schedule for “Optical patch panel”.
+- All further findings, decisions, or stakeholder feedback on these points to be appended in File/Consolidation Log and Open Issue Log.
+
+---
+**Next step:** Run the following prompt for the next batch or lines:
+
+> Reference CONSOLIDATION_PROCESS_AND_REFERENCE.md.  
+> For the next set of BoQ lines and corresponding review documents not yet resolved (or the next batch you wish to process), repeat the analysis:  
+> - List findings, suggested changes/removals, supporting Sidama evidence, stakeholders needed.  
+> - Log new actions/issues as above.  
+> - End with the next prompt, targeting remaining open/high-value BoQ or negotiation issues.
+
+---
 ---
 
 ## Prompts and Rules for Iteration
